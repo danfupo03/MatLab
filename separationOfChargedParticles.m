@@ -1,3 +1,7 @@
+%Author: Daniel Fuentes Portaluppi
+%Description: Calculation of the distance between two charges
+% that are dropped on an electric field
+
 clc; clear all;
 
 %These constant variables are assigned.
