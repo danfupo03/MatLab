@@ -1,6 +1,6 @@
 %Author: Daniel Fuentes Portaluppi
-%Description: Calculation of the distance between two charges
-% that are dropped on an electric field
+%Description: Calculation of the electric force and 
+% the electric field with the Coulomb equation
 
 clear all; clc;
 
