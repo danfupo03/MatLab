@@ -36,7 +36,7 @@ while a == true
     b = input("Want to add another charge? Yes = 1 / No = 2: ");
 
     %If the answer is "yes" it starts over, 
-    % %if the answer is "no" it goes to the next step
+    % if the answer is "no" it goes to the next step
     if b == 1
         a = true;
     elseif b == 2
