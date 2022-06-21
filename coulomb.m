@@ -1,3 +1,7 @@
+%Author: Daniel Fuentes Portaluppi
+%Description: Calculation of the distance between two charges
+% that are dropped on an electric field
+
 clear all; clc;
 
 %Constant variables
@@ -50,12 +54,11 @@ end
 eForce = S * Q / (8.854e-12 / 9);
 eField = eForce/ Q;
 
-format shortE
-fText = "Tu campo eléctrico es: " + eForce(1)...
+fText = "Your electric force is: " + eForce(1)...
     + "C " + eForce(2)... 
     + "C " + eForce(3) + "C";
 
-fiText = "Tu campo eléctrico es: " + eField(1)...
+fiText = "Your electric field is: " + eField(1)...
     + " " + eField(2)... 
     + " " + eField(3);
 
