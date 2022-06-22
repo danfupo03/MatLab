@@ -8,3 +8,11 @@ This code calculates the electric force and the electric field with the Coulomb 
 
 ### Alpha
 This code calculates the angle of two charges hanging from threads
+
+### Separation of charged particles
+Calculation of the distance between two charges that are dropped on an electric field.
+
+### Gauss's Law
+
+
+### Capacitance
