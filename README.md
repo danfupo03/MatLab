@@ -7,12 +7,13 @@ Each uses a different law, with Gauss's or Coulomb's being the most representati
 This code calculates the electric force and the electric field with the Coulomb equation.
 
 ### - Alpha
-This code calculates the angle of two charges hanging from threads
+This code calculates the angle of two charges hanging from threads.
 
 ### - Separation of charged particles
 Calculation of the distance between two charges that are dropped on an electric field.
 
 ### - Gauss's Law
-This is a code that serves as a form to calculate the electric field of different situations using Gauss's law
+This is a code that serves as a form to calculate the electric field of different situations using Gauss's law.
 
 ### - Capacitance
+This code calculates the capacitance and the accumulated energy.
