@@ -7,4 +7,4 @@ Each uses a different law, with Gauss's or Coulomb's being the most representati
 This code calculates the electric force and the electric field with the Coulomb equation.
 
 ### Alpha
-
+This code calculates the angle of two charges hanging from threads
